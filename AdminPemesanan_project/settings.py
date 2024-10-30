@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'Pembayaran',
     'Laporan',
     'Pengiriman',
+    "django_extensions",
 ]
 
 MIDDLEWARE = [
